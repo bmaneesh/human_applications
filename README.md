@@ -1,0 +1,1 @@
+This repo is an OpenCV implementation of human, face detection and other applications in python.
